@@ -1,0 +1,2 @@
+HumanMessage(content="I placed an order #67890 three days ago but haven't received a tracking number.")
+AIMessage(content="I've checked your order #67890. It was dispatched yesterday and a tracking number has been sent to your registered email. Please allow 24 hours for the carrier's system to update.")
